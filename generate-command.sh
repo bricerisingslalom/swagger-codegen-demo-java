@@ -1,0 +1,1 @@
+swagger-codegen generate -l java -i swagger.json --config config.json --library resttemplate -o generated-client

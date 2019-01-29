@@ -1,0 +1,9 @@
+{
+    "modelPackage": "com.bricerising.swaggercodgen.example.java.model",
+    "apiPackage": "com.bricerising.swaggercodgen.example.java.api",
+    "groupId": "com.bricerising.swaggercodgen.example.java",
+    "artifactId": "swagger-codegen-example-client",
+    "artifactVersion": "1.0.0",
+    "artifactDescription": "Demo of a swagger codegen client",
+    "java8": true
+}
